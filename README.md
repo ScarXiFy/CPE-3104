@@ -1,2 +1,12 @@
 # CPE-3104
-x86 assembly
+
+CPE 3104
+
+
+Lauron, John Enrico D.
+
+
+BS CpE - 3
+
+
+CPE 3104 - MICROPROCESSORS
